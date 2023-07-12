@@ -1,0 +1,5 @@
+DATABASE=<DBNAME>
+USER=<DBUSER>
+PASSWORD=<Your password>
+HOST=<Your host>
+PORT=<Your Port>
